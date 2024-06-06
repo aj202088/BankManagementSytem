@@ -11,6 +11,8 @@ This ATM Simulator System has functionalities such as:
  - etc...
 
 Technologies Used: Core Java (Swing & AWT)
+
 Database Used: MySQL
+
 IDE used: Visual Studio
    

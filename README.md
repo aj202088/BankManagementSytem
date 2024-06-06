@@ -9,10 +9,4 @@ This ATM Simulator System has functionalities such as:
  - MiniStatement
  - Pin Change
  - etc...
-
-Technologies Used: Core Java (Swing & AWT)
-
-Database Used: MySQL
-
-IDE used: Visual Studio
    
